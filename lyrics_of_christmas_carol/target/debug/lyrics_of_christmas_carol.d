@@ -1,0 +1,1 @@
+C:\Users\moham\my-projects\RUST\VERSION\ CONTROL\mastering-rust\lyrics_of_christmas_carol\target\debug\lyrics_of_christmas_carol.exe: C:\Users\moham\my-projects\RUST\VERSION\ CONTROL\mastering-rust\lyrics_of_christmas_carol\src\main.rs
