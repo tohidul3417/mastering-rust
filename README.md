@@ -7,7 +7,7 @@ Welcome to **Mastering Rust**, a collection where I will keep uploading projects
 - Regular updates as I progress through different Rust concepts.  
 
 ## 🚀 Topics Covered  
-- Rust Fundamentals (Ownership, Borrowing, Lifetimes)  
+- Common Programming Concepts in Rust
 
 ## 📜 License  
 This repository is open-source under the MIT License.  
