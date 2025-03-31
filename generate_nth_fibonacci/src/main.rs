@@ -15,6 +15,8 @@ fn generate_nth_fibonacci(n:u32) -> u128 {
 }
 
 fn main() {
+    println!("What is the 3rd fibonacci number? Answer: {}", generate_nth_fibonacci(3));
     println!("What is the 5th fibonacci number? Answer: {}", generate_nth_fibonacci(5));
     println!("What is the 15th fibonacci number? Answer: {}", generate_nth_fibonacci(15));
+    println!("What is the 20th fibonacci number? Answer: {}", generate_nth_fibonacci(20));
 }
